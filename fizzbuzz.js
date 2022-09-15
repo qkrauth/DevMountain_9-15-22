@@ -14,4 +14,3 @@ for (let i = 1; i <= 50; i++) {
         console.log("fizz");
     } else console.log(i);
 }
-
